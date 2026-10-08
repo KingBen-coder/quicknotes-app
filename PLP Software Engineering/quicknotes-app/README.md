@@ -31,3 +31,13 @@ No build tools, dependencies or server are required.
 - I learned how to store application data as an array of JavaScript objects and render it dynamically with `createElement` and `textContent`.
 - I learned how to use localStorage with `JSON.stringify()` and `JSON.parse()` to persist data between page refreshes.
 - I learned how to implement form validation, search filtering and delete functionality with JavaScript event listeners.
+
+## Git History
+
+The project was developed incrementally using Git commits covering:
+
+- Page structure and semantic HTML
+- Responsive styling and note cards
+- Note creation and category handling
+- README documentation
+- Final functionality and project completion
